@@ -1,0 +1,1 @@
+exit (!(Test-Path -Path "C:\Users\$env:USERNAME\OneDrive - Kraus-Anderson\Documents\SCANS"))
