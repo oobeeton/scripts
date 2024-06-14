@@ -1,0 +1,509 @@
+"GPOName","DriveLetter","SharePath","Label"
+"","","",""
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ",,,
+"MapNetworkDrive_BJ","J","\\bjfs01\bjprojects","\\BJFS01\BJPROJECTS"
+"MapNetworkDrive_BJ","K","\\bjfs01\bjexec","\\BJFS01\BJEXEC"
+"MapNetworkDrive_BJ","L","\\bjfs01\BJForms","\\BJFS01\BJFORMS"
+"MapNetworkDrive_BJ","M","\\MARKETING\MPLSMarketing","MARKETING"
+"MapNetworkDrive_BJ","N","\\bjfs01\bjacct","\\BJFS01\BJACCT"
+"MapNetworkDrive_BJ","O","\\bjfs01\bjadmin","\\BJFS01\Admin"
+"MapNetworkDrive_BJ","P","\\PORTFOLIO\imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_BJ","Q","\\MPLSFS01\MPLSQMS","\\COLO02\MPLSQMS"
+"MapNetworkDrive_BJ","U","\\bjfs01\bjusers\%LogonUser%",""
+"MapNetworkDrive_BJ","W","\\BJFS01\BJWELLNESS","\\BJFS01\BJWELLNESS"
+"MapNetworkDrive_BJ","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_BJ","Y","\\bjfs01\bjyard","\\BJFS01\BJYARD"
+"MapNetworkDrive_BJ","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_BJ","O","\\colofs01\OSTData","OST"
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP",,,
+"MapNetworkDrive_CP","L","\\CPFS01\CPForms","\\CPFS01\CPForms"
+"MapNetworkDrive_CP","J","\\mplsfs01\MPLSProjects","MPLSProjects"
+"MapNetworkDrive_CP","W","\\CPFS01\CPWellness","\\CPFS01\CPWellness"
+"MapNetworkDrive_CP","T","\\CPFS01\CPMidwestdata","\\CPFS01\CPMidwestdata"
+"MapNetworkDrive_CP","Q","\\MPLSFS01\MPLSQMS","\\COLO02\MPLSQMS"
+"MapNetworkDrive_CP","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_CP","U","\\CPFS01\CPUsers\%LogonUser%","\\CPFS01\CPUsers\%LogonUser%"
+"MapNetworkDrive_CP","N","\\CPFS01\CPACCT","\\CPFS01\CPACCT"
+"MapNetworkDrive_CP","I","\\CPFS01\CPSubInsurance","\\CPFS01\CPSubInsurance"
+"MapNetworkDrive_CP","R","\\CPFS01\CPAdmin","\\CPFS01\CPAdmin"
+"MapNetworkDrive_CP","I","\\CPFS01\CPIT","\\CPFS01\CPIT"
+"MapNetworkDrive_CP","M","\\marketing\MPLSMarketing","\\marketing\MPLSMarketing"
+"MapNetworkDrive_CP","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_CP","G","\\CPFS01\CPField","\\CPFS01\CPField"
+"MapNetworkDrive_CP","Y","\\CPFS01\CPYard","\\CPFS01\CPYard"
+"MapNetworkDrive_CP","P","\\CPFS01\KAU","\\CPFS01\KAU"
+"MapNetworkDrive_CP","K","\\CPFS01\CPEXEC","\\CPFS01\CPEXEC"
+"MapNetworkDrive_CP","N","\\MPLSFS01\CORPHR","\\MPLSFS01\CORPHR"
+"MapNetworkDrive_CP","I","\\CPFS01\CPHR","\\CPFS01\CPHR"
+"MapNetworkDrive_CP","G","\\CPFS01\KAU","\\CPFS01\KAU"
+"MapNetworkDrive_CP","S","\\ka-abmp-cp\scantofile","\\ka-abmp-cp\scantofile"
+"MapNetworkDrive_CP","I","\\CPFS01\CPSubInsurance","\\CPFS01\CPSubInsurance"
+"MapNetworkDrive_CP","I","\\CPFS01\CPSubInsurance","\\CPFS01\CPSubInsurance"
+"MapNetworkDrive_CP","O","\\colofs01\OSTData","\\colofs01\OSTData"
+"MapNetworkDrive_CP","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_CP","S","\\cpfs01\cprecruiting","\\CPFS01\CPRecruiting"
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL",,,
+"MapNetworkDrive_DUL","J","\\DULFS01\DULProject","\\DULFS01\DULProject"
+"MapNetworkDrive_DUL","K","\\DULFS01\DULExec","\\DULFS01\DULExec"
+"MapNetworkDrive_DUL","M","\\DULFS01\DULMKTG","\\DULFS01\DULMKTG"
+"MapNetworkDrive_DUL","O","\\colofs01\OSTData","\\colofs01\OSTData"
+"MapNetworkDrive_DUL","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_DUL","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_DUL","R","\\DULFS01\DULAdmin","\\DULFS01\DULAdmin"
+"MapNetworkDrive_DUL","T","\\DULFS01\DuluthData","\\DULFS01\DuluthData"
+"MapNetworkDrive_DUL","U","\\DULFS01\DULUsers\%LogonUser%",""
+"MapNetworkDrive_DUL","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_DUL","Y","\\DULFS01\DULYARD","\\DULFS01\DULYARD"
+"MapNetworkDrive_DUL","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC",,,
+"MapNetworkDrive_KARC","I","\\KARCFS01\KARCBudgets","\\KARCFS01\KARCBudgets"
+"MapNetworkDrive_KARC","K","\\KARCFS01\KARC-Scanned Leases","\\KARCFS01\KARC-Scanned Leases"
+"MapNetworkDrive_KARC","L","\\KARCFS01\KARCPropMgmt\LeaseSummaries","\\KARCFS01\KARCPropMgmt\LeaseSum"
+"MapNetworkDrive_KARC","M","\\KARCFS01\KARCData","\\KARCFS01\KARCData"
+"MapNetworkDrive_KARC","P","\\KARCFS01\KARCPhotos","\\KARCFS01\KARCPhotos"
+"MapNetworkDrive_KARC","R","\\timberline1\Accounting_Data","\\timberline1\Accounting_Data"
+"MapNetworkDrive_KARC","S","\\KARCFS01\KARCPropMgmt\TenantSales","\\KARCFS01\KARCPropMgmt\TenantSa"
+"MapNetworkDrive_KARC","T","\\Timberline1\Timberline Office","\\Timberline\Timberline Office"
+"MapNetworkDrive_KARC","U","\\KARCFS01\KARCUsers\%LogonUser%",""
+"MapNetworkDrive_KARC","V","\\Timberscan\Timberscan","\\Timberscan\Timberscan"
+"MapNetworkDrive_KARC","W","\\KARCFS01\Timberscan Docs","\\KARCFS01\Timberscan Docs"
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS",,,
+"MapNetworkDrive_MPLS","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_MPLS","W","\\mplsfs01\MPLSWellness","MPLS Wellness"
+"MapNetworkDrive_MPLS","X","\\mplsfs01\MPLSKAEvents","KA Events"
+"MapNetworkDrive_MPLS","U","\\mplsfs01\MPLSUsers\%LogonUser%","User Drive"
+"MapNetworkDrive_MPLS","J","\\mplsfs01\MPLSProjects","MPLS Projects"
+"MapNetworkDrive_MPLS","I","\\cpfs01\CPSubInsurance","Sub Insurance"
+"MapNetworkDrive_MPLS","N","\\cpfs01\CPACCT","\\cpfs01\CPACCT"
+"MapNetworkDrive_MPLS","T","\\mplsfs01\MPLSCapital","Capital"
+"MapNetworkDrive_MPLS","M","\\mplsfs01\MPLSCommunityRelations","Community Relations"
+"MapNetworkDrive_MPLS","P","\\mplsfs01\MPLSCorpConstruction","MPLS Corp Construction"
+"MapNetworkDrive_MPLS","N","\\mplsfs01\MPLSEEO","EEO"
+"MapNetworkDrive_MPLS","K","\\mplsfs01\MPLSExecutive","MPLS Executive"
+"MapNetworkDrive_MPLS","G","\\mplsfs01\MPLSFieldOperations","MPLS Field Operations"
+"MapNetworkDrive_MPLS","N","\\mplsfs01\MPLSKAHistory","KA History"
+"MapNetworkDrive_MPLS","L","\\mplsfs01\CorpHR","CORP HR"
+"MapNetworkDrive_MPLS","I","\\mplsfs01\MPLSInsurance","MPLS Insurance"
+"MapNetworkDrive_MPLS","O","\\mplsfs01\MPLSKACos","\\mplsfs01\MPLSKACos"
+"MapNetworkDrive_MPLS","T","\\mplsfs01\MPLSLegal","MPLS Legal"
+"MapNetworkDrive_MPLS","M","\\marketing\MPLSMarketing","MPLS Marketing"
+"MapNetworkDrive_MPLS","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_MPLS","M","\\mplsfs01\MPLSMortgage","Mortgage"
+"MapNetworkDrive_MPLS","T","\\mplsfs01\MPLSOfcManager","\\mplsfs01\MPLSOfcManager"
+"MapNetworkDrive_MPLS","O","\\colofs01\OSTData","OST"
+"MapNetworkDrive_MPLS","S","\\mplsfs01\MPLSSafety","Safety"
+"MapNetworkDrive_MPLS","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_ROC",,,
+"MapNetworkDrive_ROC",,,
+"MapNetworkDrive_ROC",,,
+"MapNetworkDrive_ROC",,,
+"MapNetworkDrive_ROC",,,
+"MapNetworkDrive_ROC",,,
+"MapNetworkDrive_ROC",,,
+"MapNetworkDrive_ROC",,,
+"MapNetworkDrive_ROC",,,
+"MapNetworkDrive_ROC",,,
+"MapNetworkDrive_ROC","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_ROC","W","\\cpfs01\CPWellness","CPWellness"
+"MapNetworkDrive_ROC","X","\\mplsfs01\MPLSKAEvents","MPLSKAEvents"
+"MapNetworkDrive_ROC","U","\\cpfs01\CPUsers\%LogonUser%","User Drive"
+"MapNetworkDrive_ROC","I","\\cpfs01\CPSubInsurance","CPSubInsurance"
+"MapNetworkDrive_ROC","L","\\cpfs01\CPForms","CPForms"
+"MapNetworkDrive_ROC","J","\\colo01\Projects\ROC","Projects"
+"MapNetworkDrive_ROC","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_ROC","O","\\colofs01\OSTData","OST"
+"MapNetworkDrive_SUPT",,,
+"MapNetworkDrive_SUPT",,,
+"MapNetworkDrive_SUPT",,,
+"MapNetworkDrive_SUPT",,,
+"MapNetworkDrive_SUPT",,,
+"MapNetworkDrive_SUPT",,,
+"MapNetworkDrive_SUPT",,,
+"MapNetworkDrive_SUPT",,,
+"MapNetworkDrive_SUPT","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_SUPT","X","\\mplsfs01\MPLSKAEvents","MPLSKAEVENTS"
+"MapNetworkDrive_SUPT","J","\\BJFS01\BJPROJECTS","\\BJFS01\BJPROJECTS"
+"MapNetworkDrive_SUPT","J","\\CPFS01\CPPROJECTS","\\CPFS01\CPPROJECTS"
+"MapNetworkDrive_SUPT","J","\\dulfs01\DulProject","\\DULFS01\DULPROJECTS"
+"MapNetworkDrive_SUPT","J","\\mplsfs01\MPLSProjects","\\mplsfs01\MPLSProjects"
+"MapNetworkDrive_SUPT","J","\\WIFS01\WIPROJECTS","\\WIFS01\WIPROJECTS"
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI",,,
+"MapNetworkDrive_WI","J","\\WIFS01\WIProjects","\\WIFS01\WIProjects"
+"MapNetworkDrive_WI","L","\\WIFS01\WIForms","\\WIFS01\WIForms"
+"MapNetworkDrive_WI","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_WI","T","\\WIFS01\WIDATA","\\WIFS01\WIDATA"
+"MapNetworkDrive_WI","U","\\wifs01\wiusers\%LogonUser%",""
+"MapNetworkDrive_WI","N","\\WIFS01\MADISON","\\WIFS01\MADISON"
+"MapNetworkDrive_WI","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_WI","M","\\WIFS01\WIMKTG","\\WIFS01\WIMKTG"
+"MapNetworkDrive_WI","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_WI","R","\\WIFS01\WIADMIN","\\WIFS01\WIADMIN"
+"MapNetworkDrive_WI","K","\\WIFS01\WIExec","\\WIFS01\WIExec"
+"MapNetworkDrive_WI","O","\\colofs01\OSTData","\\colofs01\OSTData"
+"MapNetworkDrive_WI","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive",,,
+"MapNetworkDrive",,,
+"MapNetworkDrive",,,
+"MapNetworkDrive",,,
+"MapNetworkDrive",,,
+"MapNetworkDrive",,,
+"MapNetworkDrive",,,
+"MapNetworkDrive","X","\\mplsfs01\MPLSWellness","MPLSWellness"
+"MapNetworkDrive","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive","I","\\mplsfs01\MPLSIT","IT"
+"MapNetworkDrive","U","\\mplsfs01\MPLSUsers\%LogonUser%","%LogonUser%"
+"MapNetworkDrive","U","\\cpfs01\CPUsers\%LogonUser%","%LogonUser%"
+"MapNetworkDrive","U","\\cpfs01\CPUsers\%LogonUser%","%LogonUser%"
+"MapNetworkDrive_BJ","J","\\bjfs01\bjprojects","\\BJFS01\BJPROJECTS"
+"MapNetworkDrive_BJ","K","\\bjfs01\bjexec","\\BJFS01\BJEXEC"
+"MapNetworkDrive_BJ","L","\\bjfs01\BJForms","\\BJFS01\BJFORMS"
+"MapNetworkDrive_BJ","M","\\MARKETING\MPLSMarketing","MARKETING"
+"MapNetworkDrive_BJ","N","\\bjfs01\bjacct","\\BJFS01\BJACCT"
+"MapNetworkDrive_BJ","O","\\bjfs01\bjadmin","\\BJFS01\Admin"
+"MapNetworkDrive_BJ","P","\\PORTFOLIO\imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_BJ","Q","\\MPLSFS01\MPLSQMS","\\COLO02\MPLSQMS"
+"MapNetworkDrive_BJ","U","\\bjfs01\bjusers\%LogonUser%",""
+"MapNetworkDrive_BJ","W","\\BJFS01\BJWELLNESS","\\BJFS01\BJWELLNESS"
+"MapNetworkDrive_BJ","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_BJ","Y","\\bjfs01\bjyard","\\BJFS01\BJYARD"
+"MapNetworkDrive_BJ","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_BJ","O","\\colofs01\OSTData","OST"
+"MapNetworkDrive_CP","L","\\CPFS01\CPForms","\\CPFS01\CPForms"
+"MapNetworkDrive_CP","J","\\mplsfs01\MPLSProjects","MPLSProjects"
+"MapNetworkDrive_CP","W","\\CPFS01\CPWellness","\\CPFS01\CPWellness"
+"MapNetworkDrive_CP","T","\\CPFS01\CPMidwestdata","\\CPFS01\CPMidwestdata"
+"MapNetworkDrive_CP","Q","\\MPLSFS01\MPLSQMS","\\COLO02\MPLSQMS"
+"MapNetworkDrive_CP","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_CP","U","\\CPFS01\CPUsers\%LogonUser%","\\CPFS01\CPUsers\%LogonUser%"
+"MapNetworkDrive_CP","N","\\CPFS01\CPACCT","\\CPFS01\CPACCT"
+"MapNetworkDrive_CP","I","\\CPFS01\CPSubInsurance","\\CPFS01\CPSubInsurance"
+"MapNetworkDrive_CP","R","\\CPFS01\CPAdmin","\\CPFS01\CPAdmin"
+"MapNetworkDrive_CP","I","\\CPFS01\CPIT","\\CPFS01\CPIT"
+"MapNetworkDrive_CP","M","\\marketing\MPLSMarketing","\\marketing\MPLSMarketing"
+"MapNetworkDrive_CP","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_CP","G","\\CPFS01\CPField","\\CPFS01\CPField"
+"MapNetworkDrive_CP","Y","\\CPFS01\CPYard","\\CPFS01\CPYard"
+"MapNetworkDrive_CP","P","\\CPFS01\KAU","\\CPFS01\KAU"
+"MapNetworkDrive_CP","K","\\CPFS01\CPEXEC","\\CPFS01\CPEXEC"
+"MapNetworkDrive_CP","N","\\MPLSFS01\CORPHR","\\MPLSFS01\CORPHR"
+"MapNetworkDrive_CP","I","\\CPFS01\CPHR","\\CPFS01\CPHR"
+"MapNetworkDrive_CP","G","\\CPFS01\KAU","\\CPFS01\KAU"
+"MapNetworkDrive_CP","S","\\ka-abmp-cp\scantofile","\\ka-abmp-cp\scantofile"
+"MapNetworkDrive_CP","I","\\CPFS01\CPSubInsurance","\\CPFS01\CPSubInsurance"
+"MapNetworkDrive_CP","I","\\CPFS01\CPSubInsurance","\\CPFS01\CPSubInsurance"
+"MapNetworkDrive_CP","O","\\colofs01\OSTData","\\colofs01\OSTData"
+"MapNetworkDrive_CP","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_CP","S","\\cpfs01\cprecruiting","\\CPFS01\CPRecruiting"
+"MapNetworkDrive_DUL","J","\\DULFS01\DULProject","\\DULFS01\DULProject"
+"MapNetworkDrive_DUL","K","\\DULFS01\DULExec","\\DULFS01\DULExec"
+"MapNetworkDrive_DUL","M","\\DULFS01\DULMKTG","\\DULFS01\DULMKTG"
+"MapNetworkDrive_DUL","O","\\colofs01\OSTData","\\colofs01\OSTData"
+"MapNetworkDrive_DUL","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_DUL","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_DUL","R","\\DULFS01\DULAdmin","\\DULFS01\DULAdmin"
+"MapNetworkDrive_DUL","T","\\DULFS01\DuluthData","\\DULFS01\DuluthData"
+"MapNetworkDrive_DUL","U","\\DULFS01\DULUsers\%LogonUser%",""
+"MapNetworkDrive_DUL","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_DUL","Y","\\DULFS01\DULYARD","\\DULFS01\DULYARD"
+"MapNetworkDrive_DUL","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_KARC","I","\\KARCFS01\KARCBudgets","\\KARCFS01\KARCBudgets"
+"MapNetworkDrive_KARC","K","\\KARCFS01\KARC-Scanned Leases","\\KARCFS01\KARC-Scanned Leases"
+"MapNetworkDrive_KARC","L","\\KARCFS01\KARCPropMgmt\LeaseSummaries","\\KARCFS01\KARCPropMgmt\LeaseSum"
+"MapNetworkDrive_KARC","M","\\KARCFS01\KARCData","\\KARCFS01\KARCData"
+"MapNetworkDrive_KARC","P","\\KARCFS01\KARCPhotos","\\KARCFS01\KARCPhotos"
+"MapNetworkDrive_KARC","R","\\timberline1\Accounting_Data","\\timberline1\Accounting_Data"
+"MapNetworkDrive_KARC","S","\\KARCFS01\KARCPropMgmt\TenantSales","\\KARCFS01\KARCPropMgmt\TenantSa"
+"MapNetworkDrive_KARC","T","\\Timberline1\Timberline Office","\\Timberline\Timberline Office"
+"MapNetworkDrive_KARC","U","\\KARCFS01\KARCUsers\%LogonUser%",""
+"MapNetworkDrive_KARC","V","\\Timberscan\Timberscan","\\Timberscan\Timberscan"
+"MapNetworkDrive_KARC","W","\\KARCFS01\Timberscan Docs","\\KARCFS01\Timberscan Docs"
+"MapNetworkDrive_MPLS","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_MPLS","W","\\mplsfs01\MPLSWellness","MPLS Wellness"
+"MapNetworkDrive_MPLS","X","\\mplsfs01\MPLSKAEvents","KA Events"
+"MapNetworkDrive_MPLS","U","\\mplsfs01\MPLSUsers\%LogonUser%","User Drive"
+"MapNetworkDrive_MPLS","J","\\mplsfs01\MPLSProjects","MPLS Projects"
+"MapNetworkDrive_MPLS","I","\\cpfs01\CPSubInsurance","Sub Insurance"
+"MapNetworkDrive_MPLS","N","\\cpfs01\CPACCT","\\cpfs01\CPACCT"
+"MapNetworkDrive_MPLS","T","\\mplsfs01\MPLSCapital","Capital"
+"MapNetworkDrive_MPLS","M","\\mplsfs01\MPLSCommunityRelations","Community Relations"
+"MapNetworkDrive_MPLS","P","\\mplsfs01\MPLSCorpConstruction","MPLS Corp Construction"
+"MapNetworkDrive_MPLS","N","\\mplsfs01\MPLSEEO","EEO"
+"MapNetworkDrive_MPLS","K","\\mplsfs01\MPLSExecutive","MPLS Executive"
+"MapNetworkDrive_MPLS","G","\\mplsfs01\MPLSFieldOperations","MPLS Field Operations"
+"MapNetworkDrive_MPLS","N","\\mplsfs01\MPLSKAHistory","KA History"
+"MapNetworkDrive_MPLS","L","\\mplsfs01\CorpHR","CORP HR"
+"MapNetworkDrive_MPLS","I","\\mplsfs01\MPLSInsurance","MPLS Insurance"
+"MapNetworkDrive_MPLS","O","\\mplsfs01\MPLSKACos","\\mplsfs01\MPLSKACos"
+"MapNetworkDrive_MPLS","T","\\mplsfs01\MPLSLegal","MPLS Legal"
+"MapNetworkDrive_MPLS","M","\\marketing\MPLSMarketing","MPLS Marketing"
+"MapNetworkDrive_MPLS","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_MPLS","M","\\mplsfs01\MPLSMortgage","Mortgage"
+"MapNetworkDrive_MPLS","T","\\mplsfs01\MPLSOfcManager","\\mplsfs01\MPLSOfcManager"
+"MapNetworkDrive_MPLS","O","\\colofs01\OSTData","OST"
+"MapNetworkDrive_MPLS","S","\\mplsfs01\MPLSSafety","Safety"
+"MapNetworkDrive_MPLS","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_ROC","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_ROC","W","\\cpfs01\CPWellness","CPWellness"
+"MapNetworkDrive_ROC","X","\\mplsfs01\MPLSKAEvents","MPLSKAEvents"
+"MapNetworkDrive_ROC","U","\\cpfs01\CPUsers\%LogonUser%","User Drive"
+"MapNetworkDrive_ROC","I","\\cpfs01\CPSubInsurance","CPSubInsurance"
+"MapNetworkDrive_ROC","L","\\cpfs01\CPForms","CPForms"
+"MapNetworkDrive_ROC","J","\\colo01\Projects\ROC","Projects"
+"MapNetworkDrive_ROC","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_ROC","O","\\colofs01\OSTData","OST"
+"MapNetworkDrive_SUPT","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_SUPT","X","\\mplsfs01\MPLSKAEvents","MPLSKAEVENTS"
+"MapNetworkDrive_SUPT","J","\\BJFS01\BJPROJECTS","\\BJFS01\BJPROJECTS"
+"MapNetworkDrive_SUPT","J","\\CPFS01\CPPROJECTS","\\CPFS01\CPPROJECTS"
+"MapNetworkDrive_SUPT","J","\\dulfs01\DulProject","\\DULFS01\DULPROJECTS"
+"MapNetworkDrive_SUPT","J","\\mplsfs01\MPLSProjects","\\mplsfs01\MPLSProjects"
+"MapNetworkDrive_SUPT","J","\\WIFS01\WIPROJECTS","\\WIFS01\WIPROJECTS"
+"MapNetworkDrive_WI","J","\\WIFS01\WIProjects","\\WIFS01\WIProjects"
+"MapNetworkDrive_WI","L","\\WIFS01\WIForms","\\WIFS01\WIForms"
+"MapNetworkDrive_WI","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_WI","T","\\WIFS01\WIDATA","\\WIFS01\WIDATA"
+"MapNetworkDrive_WI","U","\\wifs01\wiusers\%LogonUser%",""
+"MapNetworkDrive_WI","N","\\WIFS01\MADISON","\\WIFS01\MADISON"
+"MapNetworkDrive_WI","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_WI","M","\\WIFS01\WIMKTG","\\WIFS01\WIMKTG"
+"MapNetworkDrive_WI","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_WI","R","\\WIFS01\WIADMIN","\\WIFS01\WIADMIN"
+"MapNetworkDrive_WI","K","\\WIFS01\WIExec","\\WIFS01\WIExec"
+"MapNetworkDrive_WI","O","\\colofs01\OSTData","\\colofs01\OSTData"
+"MapNetworkDrive_WI","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive","X","\\mplsfs01\MPLSWellness","MPLSWellness"
+"MapNetworkDrive","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive","I","\\mplsfs01\MPLSIT","IT"
+"MapNetworkDrive","U","\\mplsfs01\MPLSUsers\%LogonUser%","%LogonUser%"
+"MapNetworkDrive","U","\\cpfs01\CPUsers\%LogonUser%","%LogonUser%"
+"MapNetworkDrive","U","\\cpfs01\CPUsers\%LogonUser%","%LogonUser%"
+"MapNetworkDrive_BJ","J","\\bjfs01\bjprojects","\\BJFS01\BJPROJECTS"
+"MapNetworkDrive_BJ","K","\\bjfs01\bjexec","\\BJFS01\BJEXEC"
+"MapNetworkDrive_BJ","L","\\bjfs01\BJForms","\\BJFS01\BJFORMS"
+"MapNetworkDrive_BJ","M","\\MARKETING\MPLSMarketing","MARKETING"
+"MapNetworkDrive_BJ","N","\\bjfs01\bjacct","\\BJFS01\BJACCT"
+"MapNetworkDrive_BJ","O","\\bjfs01\bjadmin","\\BJFS01\Admin"
+"MapNetworkDrive_BJ","P","\\PORTFOLIO\imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_BJ","Q","\\MPLSFS01\MPLSQMS","\\COLO02\MPLSQMS"
+"MapNetworkDrive_BJ","U","\\bjfs01\bjusers\%LogonUser%",""
+"MapNetworkDrive_BJ","W","\\BJFS01\BJWELLNESS","\\BJFS01\BJWELLNESS"
+"MapNetworkDrive_BJ","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_BJ","Y","\\bjfs01\bjyard","\\BJFS01\BJYARD"
+"MapNetworkDrive_BJ","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_BJ","O","\\colofs01\OSTData","OST"
+"MapNetworkDrive_CP","L","\\CPFS01\CPForms","\\CPFS01\CPForms"
+"MapNetworkDrive_CP","J","\\mplsfs01\MPLSProjects","MPLSProjects"
+"MapNetworkDrive_CP","W","\\CPFS01\CPWellness","\\CPFS01\CPWellness"
+"MapNetworkDrive_CP","T","\\CPFS01\CPMidwestdata","\\CPFS01\CPMidwestdata"
+"MapNetworkDrive_CP","Q","\\MPLSFS01\MPLSQMS","\\COLO02\MPLSQMS"
+"MapNetworkDrive_CP","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_CP","U","\\CPFS01\CPUsers\%LogonUser%","\\CPFS01\CPUsers\%LogonUser%"
+"MapNetworkDrive_CP","N","\\CPFS01\CPACCT","\\CPFS01\CPACCT"
+"MapNetworkDrive_CP","I","\\CPFS01\CPSubInsurance","\\CPFS01\CPSubInsurance"
+"MapNetworkDrive_CP","R","\\CPFS01\CPAdmin","\\CPFS01\CPAdmin"
+"MapNetworkDrive_CP","I","\\CPFS01\CPIT","\\CPFS01\CPIT"
+"MapNetworkDrive_CP","M","\\marketing\MPLSMarketing","\\marketing\MPLSMarketing"
+"MapNetworkDrive_CP","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_CP","G","\\CPFS01\CPField","\\CPFS01\CPField"
+"MapNetworkDrive_CP","Y","\\CPFS01\CPYard","\\CPFS01\CPYard"
+"MapNetworkDrive_CP","P","\\CPFS01\KAU","\\CPFS01\KAU"
+"MapNetworkDrive_CP","K","\\CPFS01\CPEXEC","\\CPFS01\CPEXEC"
+"MapNetworkDrive_CP","N","\\MPLSFS01\CORPHR","\\MPLSFS01\CORPHR"
+"MapNetworkDrive_CP","I","\\CPFS01\CPHR","\\CPFS01\CPHR"
+"MapNetworkDrive_CP","G","\\CPFS01\KAU","\\CPFS01\KAU"
+"MapNetworkDrive_CP","S","\\ka-abmp-cp\scantofile","\\ka-abmp-cp\scantofile"
+"MapNetworkDrive_CP","I","\\CPFS01\CPSubInsurance","\\CPFS01\CPSubInsurance"
+"MapNetworkDrive_CP","I","\\CPFS01\CPSubInsurance","\\CPFS01\CPSubInsurance"
+"MapNetworkDrive_CP","O","\\colofs01\OSTData","\\colofs01\OSTData"
+"MapNetworkDrive_CP","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_CP","S","\\cpfs01\cprecruiting","\\CPFS01\CPRecruiting"
+"MapNetworkDrive_DUL","J","\\DULFS01\DULProject","\\DULFS01\DULProject"
+"MapNetworkDrive_DUL","K","\\DULFS01\DULExec","\\DULFS01\DULExec"
+"MapNetworkDrive_DUL","M","\\DULFS01\DULMKTG","\\DULFS01\DULMKTG"
+"MapNetworkDrive_DUL","O","\\colofs01\OSTData","\\colofs01\OSTData"
+"MapNetworkDrive_DUL","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_DUL","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_DUL","R","\\DULFS01\DULAdmin","\\DULFS01\DULAdmin"
+"MapNetworkDrive_DUL","T","\\DULFS01\DuluthData","\\DULFS01\DuluthData"
+"MapNetworkDrive_DUL","U","\\DULFS01\DULUsers\%LogonUser%",""
+"MapNetworkDrive_DUL","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_DUL","Y","\\DULFS01\DULYARD","\\DULFS01\DULYARD"
+"MapNetworkDrive_DUL","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_KARC","I","\\KARCFS01\KARCBudgets","\\KARCFS01\KARCBudgets"
+"MapNetworkDrive_KARC","K","\\KARCFS01\KARC-Scanned Leases","\\KARCFS01\KARC-Scanned Leases"
+"MapNetworkDrive_KARC","L","\\KARCFS01\KARCPropMgmt\LeaseSummaries","\\KARCFS01\KARCPropMgmt\LeaseSum"
+"MapNetworkDrive_KARC","M","\\KARCFS01\KARCData","\\KARCFS01\KARCData"
+"MapNetworkDrive_KARC","P","\\KARCFS01\KARCPhotos","\\KARCFS01\KARCPhotos"
+"MapNetworkDrive_KARC","R","\\timberline1\Accounting_Data","\\timberline1\Accounting_Data"
+"MapNetworkDrive_KARC","S","\\KARCFS01\KARCPropMgmt\TenantSales","\\KARCFS01\KARCPropMgmt\TenantSa"
+"MapNetworkDrive_KARC","T","\\Timberline1\Timberline Office","\\Timberline\Timberline Office"
+"MapNetworkDrive_KARC","U","\\KARCFS01\KARCUsers\%LogonUser%",""
+"MapNetworkDrive_KARC","V","\\Timberscan\Timberscan","\\Timberscan\Timberscan"
+"MapNetworkDrive_KARC","W","\\KARCFS01\Timberscan Docs","\\KARCFS01\Timberscan Docs"
+"MapNetworkDrive_MPLS","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_MPLS","W","\\mplsfs01\MPLSWellness","MPLS Wellness"
+"MapNetworkDrive_MPLS","X","\\mplsfs01\MPLSKAEvents","KA Events"
+"MapNetworkDrive_MPLS","U","\\mplsfs01\MPLSUsers\%LogonUser%","User Drive"
+"MapNetworkDrive_MPLS","J","\\mplsfs01\MPLSProjects","MPLS Projects"
+"MapNetworkDrive_MPLS","I","\\cpfs01\CPSubInsurance","Sub Insurance"
+"MapNetworkDrive_MPLS","N","\\cpfs01\CPACCT","\\cpfs01\CPACCT"
+"MapNetworkDrive_MPLS","T","\\mplsfs01\MPLSCapital","Capital"
+"MapNetworkDrive_MPLS","M","\\mplsfs01\MPLSCommunityRelations","Community Relations"
+"MapNetworkDrive_MPLS","P","\\mplsfs01\MPLSCorpConstruction","MPLS Corp Construction"
+"MapNetworkDrive_MPLS","N","\\mplsfs01\MPLSEEO","EEO"
+"MapNetworkDrive_MPLS","K","\\mplsfs01\MPLSExecutive","MPLS Executive"
+"MapNetworkDrive_MPLS","G","\\mplsfs01\MPLSFieldOperations","MPLS Field Operations"
+"MapNetworkDrive_MPLS","N","\\mplsfs01\MPLSKAHistory","KA History"
+"MapNetworkDrive_MPLS","L","\\mplsfs01\CorpHR","CORP HR"
+"MapNetworkDrive_MPLS","I","\\mplsfs01\MPLSInsurance","MPLS Insurance"
+"MapNetworkDrive_MPLS","O","\\mplsfs01\MPLSKACos","\\mplsfs01\MPLSKACos"
+"MapNetworkDrive_MPLS","T","\\mplsfs01\MPLSLegal","MPLS Legal"
+"MapNetworkDrive_MPLS","M","\\marketing\MPLSMarketing","MPLS Marketing"
+"MapNetworkDrive_MPLS","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_MPLS","M","\\mplsfs01\MPLSMortgage","Mortgage"
+"MapNetworkDrive_MPLS","T","\\mplsfs01\MPLSOfcManager","\\mplsfs01\MPLSOfcManager"
+"MapNetworkDrive_MPLS","O","\\colofs01\OSTData","OST"
+"MapNetworkDrive_MPLS","S","\\mplsfs01\MPLSSafety","Safety"
+"MapNetworkDrive_MPLS","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_ROC","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_ROC","W","\\cpfs01\CPWellness","CPWellness"
+"MapNetworkDrive_ROC","X","\\mplsfs01\MPLSKAEvents","MPLSKAEvents"
+"MapNetworkDrive_ROC","U","\\cpfs01\CPUsers\%LogonUser%","User Drive"
+"MapNetworkDrive_ROC","I","\\cpfs01\CPSubInsurance","CPSubInsurance"
+"MapNetworkDrive_ROC","L","\\cpfs01\CPForms","CPForms"
+"MapNetworkDrive_ROC","J","\\colo01\Projects\ROC","Projects"
+"MapNetworkDrive_ROC","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive_ROC","O","\\colofs01\OSTData","OST"
+"MapNetworkDrive_SUPT","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_SUPT","X","\\mplsfs01\MPLSKAEvents","MPLSKAEVENTS"
+"MapNetworkDrive_SUPT","J","\\BJFS01\BJPROJECTS","\\BJFS01\BJPROJECTS"
+"MapNetworkDrive_SUPT","J","\\CPFS01\CPPROJECTS","\\CPFS01\CPPROJECTS"
+"MapNetworkDrive_SUPT","J","\\dulfs01\DulProject","\\DULFS01\DULPROJECTS"
+"MapNetworkDrive_SUPT","J","\\mplsfs01\MPLSProjects","\\mplsfs01\MPLSProjects"
+"MapNetworkDrive_SUPT","J","\\WIFS01\WIPROJECTS","\\WIFS01\WIPROJECTS"
+"MapNetworkDrive_WI","J","\\WIFS01\WIProjects","\\WIFS01\WIProjects"
+"MapNetworkDrive_WI","L","\\WIFS01\WIForms","\\WIFS01\WIForms"
+"MapNetworkDrive_WI","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive_WI","T","\\WIFS01\WIDATA","\\WIFS01\WIDATA"
+"MapNetworkDrive_WI","U","\\wifs01\wiusers\%LogonUser%",""
+"MapNetworkDrive_WI","N","\\WIFS01\MADISON","\\WIFS01\MADISON"
+"MapNetworkDrive_WI","X","\\mplsfs01\MPLSKAEvents","\\mplsfs01\MPLSKAEvents"
+"MapNetworkDrive_WI","M","\\WIFS01\WIMKTG","\\WIFS01\WIMKTG"
+"MapNetworkDrive_WI","P","\\PORTFOLIO\Imaging","\\PORTFOLIO\Imaging"
+"MapNetworkDrive_WI","R","\\WIFS01\WIADMIN","\\WIFS01\WIADMIN"
+"MapNetworkDrive_WI","K","\\WIFS01\WIExec","\\WIFS01\WIExec"
+"MapNetworkDrive_WI","O","\\colofs01\OSTData","\\colofs01\OSTData"
+"MapNetworkDrive_WI","V","\\mplsfs01\OwnerContracts","OwnerContracts"
+"MapNetworkDrive","X","\\mplsfs01\MPLSWellness","MPLSWellness"
+"MapNetworkDrive","Q","\\MPLSFS01\MPLSQMS","QMS"
+"MapNetworkDrive","I","\\mplsfs01\MPLSIT","IT"
+"MapNetworkDrive","U","\\mplsfs01\MPLSUsers\%LogonUser%","%LogonUser%"
+"MapNetworkDrive","U","\\cpfs01\CPUsers\%LogonUser%","%LogonUser%"
+"MapNetworkDrive","U","\\cpfs01\CPUsers\%LogonUser%","%LogonUser%"
